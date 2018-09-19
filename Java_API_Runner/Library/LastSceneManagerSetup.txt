@@ -1,1 +1,10 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Main.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Noah.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Jarno.unity
+  isLoaded: 1
+  isActive: 1
