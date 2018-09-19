@@ -1,10 +1,10 @@
 sceneSetups:
-- path: Assets/Main.unity
+- path: Assets/scenes/Main.unity
   isLoaded: 1
   isActive: 0
-- path: Assets/Noah.unity
+- path: Assets/scenes/Noah.unity
   isLoaded: 1
   isActive: 0
-- path: Assets/Jarno.unity
+- path: Assets/scenes/Jarno.unity
   isLoaded: 1
   isActive: 1
